@@ -1,0 +1,14 @@
+# Local secrets and runtime data
+config.json
+*.key
+*.token
+.env
+.env.*
+
+# Windows generated files
+Thumbs.db
+Desktop.ini
+
+# Build and temporary files
+__pycache__/
+*.log
